@@ -11,7 +11,7 @@ Bipin Ghimire - bipin.ghimire@fusemachines.com
 - Clone the repo 
 - Install the requirement.txt file using  
    pip install -r requirements.txt
-- Connect you postgres with the spark.
+- Connect your postgres with the spark.
 - Create a new .env file and add your username and password as 
 
       POSTGRES_USER=<Your Postgres Username>
