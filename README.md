@@ -21,7 +21,7 @@ Bipin Ghimire - bipin.ghimire@fusemachines.com
 **For cronjob Task**
 - Create a .sh file in Linux  
    Steps:  
-   a. Open Linux Bash
+   a. Open Linux Bash   
    b. nano <filename>.sh  
             
             Example: nano run_spark.sh
