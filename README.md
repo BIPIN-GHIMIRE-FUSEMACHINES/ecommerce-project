@@ -22,7 +22,7 @@ Bipin Ghimire - bipin.ghimire@fusemachines.com
 - Create a .sh file in Linux  
    Steps:  
    a. Open Linux Bash   
-   b. nano <filename>.sh  
+   b. nano <name of file >.sh  
             
             Example: nano run_spark.sh
    c. Type the following in the nano editor  
