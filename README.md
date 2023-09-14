@@ -9,8 +9,9 @@ Bipin Ghimire - bipin.ghimire@fusemachines.com
 - Download Apache Spark
 - Create a virtual environment
 - Clone the repo 
-- Install the requirement.txt file using  
-   pip install -r requirements.txt
+- Install the requirement.txt file using
+  
+         pip install -r requirements.txt
 - Connect your postgres with the spark.
 - Create a new .env file and add your username and password as 
 
