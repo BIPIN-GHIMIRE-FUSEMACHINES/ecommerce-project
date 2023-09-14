@@ -17,7 +17,9 @@ Bipin Ghimire - bipin.ghimire@fusemachines.com
 
       POSTGRES_USER=<Your Postgres Username>
       POSTGRES_PASSWORD=<Your Postgres Password>
-- Run spark-submit Final_project_complete.py 
+- Run spark-submit Final_project_complete.py
+
+      spark-sumbit Final_project_complete.py
 
 **For cronjob Task**
 - Create a .sh file in Linux  
