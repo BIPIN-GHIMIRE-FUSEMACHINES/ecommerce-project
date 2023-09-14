@@ -1,5 +1,5 @@
 
-# Data Analysis of Brazalian Ecommerce Dataset
+# Data Analysis of Brazilian E-Commerce Public Dataset by Olist
 
 **Author:**   
 Bipin Ghimire - bipin.ghimire@fusemachines.com  
